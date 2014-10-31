@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Item Class="Folder" Name="Metallic" GUID="{201E8560-AB5A-4C50-A09C-88F0033DDC97}">
-  <Properties>
-    <Property Class="Text" GUID="{0AEEFFDD-91EF-492B-BC16-F95B9CB81A07}" Name="GUID" inheritaction="Ignore" systemlocked="True" systemhidden="True" OrderIndex="0" DecimalPlaces="2">{201E8560-AB5A-4C50-A09C-88F0033DDC97}</Property>
-    <Property Class="Number" GUID="{19512E71-36DF-42EA-A5A0-40DEC488D6E8}" Name="OrderIndex" systemhidden="True" OrderIndex="2" DecimalPlaces="2">8</Property>
-    <Property Class="Text" GUID="" Name="Name" inheritaction="Ignore" input="True" required="True" group="Item" OrderIndex="3" DecimalPlaces="2">Metallic</Property>
-    <Property Class="Type" GUID="{199DD909-F2DF-41CF-AA77-734998CDCD66}" Name="Type" group="Item" OrderIndex="4" DecimalPlaces="2">Folder</Property>
-  </Properties>
-</Item>
