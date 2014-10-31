@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Item Class="Folder" Name="ByType" GUID="{AFC7010C-E67D-4976-915E-E4D70BEB04C5}">
+  <Properties>
+    <Property CompiledProduct="SwiftReports Basic Package" CompiledMajVer="1" CompiledMinVer="0" Class="Text" GUID="{C161D531-C383-4B48-AB00-B26A430FBBC1}" Name="GUID" inheritaction="Ignore" systemlocked="True" systemhidden="True" OrderIndex="0" DecimalPlaces="2">{AFC7010C-E67D-4976-915E-E4D70BEB04C5}</Property>
+    <Property CompiledProduct="SwiftReports Basic Package" CompiledMajVer="1" CompiledMinVer="0" Class="Number" GUID="{63E392C3-E650-413A-BA89-6BD3CE9C7A58}" Name="OrderIndex" systemhidden="True" OrderIndex="2" DecimalPlaces="2">13</Property>
+    <Property CompiledProduct="SwiftReports Basic Package" CompiledMajVer="1" CompiledMinVer="0" Class="Text" GUID="{9C67AEB3-A0E8-4A71-A3FE-F3A095A28B30}" Name="Compiled Product" inheritaction="Inherit Formula" systemlocked="True" systemhidden="True" OrderIndex="11" DecimalPlaces="2">SwiftReports Basic Package</Property>
+    <Property CompiledProduct="SwiftReports Basic Package" CompiledMajVer="1" CompiledMinVer="0" Class="Number" GUID="{D1AEB3C4-45E3-4645-B77E-4AC68C7CCF4B}" Name="Compiled MajVer" inheritaction="Inherit Formula" systemlocked="True" systemhidden="True" OrderIndex="12" DecimalPlaces="2">1</Property>
+    <Property CompiledProduct="SwiftReports Basic Package" CompiledMajVer="1" CompiledMinVer="0" Class="Number" GUID="{4FBBE674-5390-4E53-86D2-428133CC95DF}" Name="Compiled MinVer" inheritaction="Inherit Formula" systemlocked="True" systemhidden="True" OrderIndex="13" DecimalPlaces="2">0</Property>
+    <Property CompiledProduct="SwiftReports Basic Package" CompiledMajVer="1" CompiledMinVer="0" Class="Text" GUID="{1309B263-BE52-47FA-9E71-B3A67A971D0C}" Name="Name" inheritaction="Ignore" input="True" required="True" group="Item" OrderIndex="3" DecimalPlaces="2">ByType</Property>
+    <Property CompiledProduct="SwiftReports Basic Package" CompiledMajVer="1" CompiledMinVer="0" Class="Type" GUID="{8F4A612E-A030-41CE-80CD-E92D185260C4}" Name="Type" group="Item" OrderIndex="4" DecimalPlaces="2">Folder</Property>
+  </Properties>
+</Item>

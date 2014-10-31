@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Item Class="Folder" Name="Desc,Qty,UoM,PT" GUID="{3A6FE71E-1D34-4D8A-B589-444D0B4A3A2C}">
+  <Properties>
+    <Property CompiledProduct="SwiftReports Basic Package" CompiledMajVer="1" CompiledMinVer="0" Class="Text" GUID="{7A09D0A5-072D-4AD2-952A-C17E32B1EFED}" Name="GUID" inheritaction="Ignore" systemlocked="True" systemhidden="True" OrderIndex="0" DecimalPlaces="2">{3A6FE71E-1D34-4D8A-B589-444D0B4A3A2C}</Property>
+    <Property CompiledProduct="SwiftReports Basic Package" CompiledMajVer="1" CompiledMinVer="0" Class="Number" GUID="{C444E4AB-A5F9-4266-953F-B6174F9AC9C7}" Name="OrderIndex" systemhidden="True" OrderIndex="2" DecimalPlaces="2">0</Property>
+    <Property CompiledProduct="SwiftReports Basic Package" CompiledMajVer="1" CompiledMinVer="0" Class="Text" GUID="{206C5853-2B90-4B7C-9CFB-E7CED9D6C00F}" Name="Compiled Product" inheritaction="Inherit Formula" systemlocked="True" systemhidden="True" OrderIndex="11" DecimalPlaces="2">SwiftReports Basic Package</Property>
+    <Property CompiledProduct="SwiftReports Basic Package" CompiledMajVer="1" CompiledMinVer="0" Class="Number" GUID="{AE7E9C16-5E91-4884-A0B1-6BE54796E855}" Name="Compiled MajVer" inheritaction="Inherit Formula" systemlocked="True" systemhidden="True" OrderIndex="12" DecimalPlaces="2">1</Property>
+    <Property CompiledProduct="SwiftReports Basic Package" CompiledMajVer="1" CompiledMinVer="0" Class="Number" GUID="{69A2D912-4FAA-45C1-8E68-4BA313D901EC}" Name="Compiled MinVer" inheritaction="Inherit Formula" systemlocked="True" systemhidden="True" OrderIndex="13" DecimalPlaces="2">0</Property>
+    <Property CompiledProduct="SwiftReports Basic Package" CompiledMajVer="1" CompiledMinVer="0" Class="Text" GUID="{119BAC7C-4773-41E1-AE70-59C30C49CDE3}" Name="Name" inheritaction="Ignore" input="True" required="True" group="Item" OrderIndex="3" DecimalPlaces="2">Desc,Qty,UoM,PT</Property>
+    <Property CompiledProduct="SwiftReports Basic Package" CompiledMajVer="1" CompiledMinVer="0" Class="Type" GUID="{2E565E51-CF04-4805-AD78-8CD25244D33D}" Name="Type" group="Item" OrderIndex="4" DecimalPlaces="2">Folder</Property>
+  </Properties>
+</Item>

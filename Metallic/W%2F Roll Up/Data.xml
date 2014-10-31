@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Item Class="Folder" Name="W/ Roll Up" GUID="{CF872C30-0116-4337-AD30-43D7123B9A8B}">
+  <Properties>
+    <Property Class="Text" GUID="{BCEB24BF-EFFF-47E1-B6C1-91A2EB10CE18}" Name="GUID" inheritaction="Ignore" systemlocked="True" systemhidden="True" OrderIndex="0" DecimalPlaces="2">{CF872C30-0116-4337-AD30-43D7123B9A8B}</Property>
+    <Property Class="Number" GUID="{F1F11645-810A-4DDD-B6BF-83488EAA3374}" Name="OrderIndex" systemhidden="True" OrderIndex="2" DecimalPlaces="2">1</Property>
+    <Property Class="Text" GUID="{6681DD5A-93A2-4F8E-80BB-44FB99A2285D}" Name="Name" inheritaction="Ignore" input="True" required="True" group="Item" OrderIndex="3" DecimalPlaces="2">W/ Roll Up</Property>
+    <Property Class="Type" GUID="{6BC78998-024F-42BC-BF08-69F9B8AA6E31}" Name="Type" group="Item" OrderIndex="4" DecimalPlaces="2">Folder</Property>
+  </Properties>
+</Item>
